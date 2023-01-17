@@ -13,7 +13,7 @@ public class RegisterControllerTest {
 	@Test
 	public void testRegister() {
 		
-		
+		//
 	}
 
 }
